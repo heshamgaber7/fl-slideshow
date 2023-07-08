@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FlatLayers Basic Slideshow v1.0\n"
+"POT-Creation-Date: 2023-07-06 20:20+0300\n"
+"PO-Revision-Date: 2016-02-29 14:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: FlatLayers\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../fl-slideshow.php:64
+msgid "Loading..."
+msgstr ""
+
+#: ../fl-slideshow.php:66
+msgid "Pick Slideshow Images"
+msgstr ""
+
+#: ../fl-slideshow.php:67
+msgid "Add Image(s)"
+msgstr ""
+
+#: ../fl-slideshow.php:91
+msgid "Slideshows"
+msgstr ""
+
+#: ../fl-slideshow.php:92
+msgid "Slideshow"
+msgstr ""
+
+#: ../fl-slideshow.php:93
+msgid "Add New Slideshow"
+msgstr ""
+
+#: ../fl-slideshow.php:94
+msgid "New Slideshow"
+msgstr ""
+
+#: ../fl-slideshow.php:95
+msgid "Edit Slideshow"
+msgstr ""
+
+#: ../fl-slideshow.php:96
+msgid "View Slideshow"
+msgstr ""
+
+#: ../fl-slideshow.php:97
+msgid "View Slideshows"
+msgstr ""
+
+#: ../fl-slideshow.php:98
+msgid "All Slideshows"
+msgstr ""
+
+#: ../fl-slideshow.php:99
+msgid "Search Slideshows"
+msgstr ""
+
+#: ../fl-slideshow.php:100
+msgid "No slideshows found."
+msgstr ""
+
+#: ../fl-slideshow.php:101
+msgid "No slideshows found in Trash."
+msgstr ""
+
+#: ../fl-slideshow.php:118
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../fl-slideshow.php:136
+msgid "Slide Horizontal"
+msgstr ""
+
+#: ../fl-slideshow.php:137
+msgid "Fade Out"
+msgstr ""
+
+#: ../fl-slideshow.php:138
+msgid "Slide Down"
+msgstr ""
+
+#: ../fl-slideshow.php:139
+msgid "Slide Up"
+msgstr ""
+
+#: ../fl-slideshow.php:152
+msgid "Pick Gallery Images"
+msgstr ""
+
+#: ../fl-slideshow.php:156
+msgid "Transition Type:"
+msgstr ""
+
+#: ../fl-slideshow.php:165
+msgid "Shortcode:"
+msgstr ""
+
+#: ../fl-slideshow.php:190
+msgid "ShortCode"
+msgstr ""
