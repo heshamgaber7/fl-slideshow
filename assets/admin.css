@@ -1,0 +1,82 @@
+/* Sections Style */
+.fl-slideshow-sec {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #EFEFEF;
+}
+.fl-slideshow-sec:first-child {
+    margin-top: 0;
+    border-top: 0;
+    padding-top: 0;
+}
+.fl-slideshow-sec label {
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+/* Slideshow CSS */
+.fl-slideshow-imgs {
+	display: block;
+	position: relative;
+	over.flow: auto;
+}
+.fl-slideshow-imgs span {
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	position: relative;
+	margin: 4px;
+	border: solid 1px #eeeeee;
+}
+.fl-slideshow-imgs span.close {
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+    font-size: 1.25rem;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background: #fff;
+	color: #000;
+	text-align: center;
+	display: none;
+	border: none;
+	cursor: pointer;
+}
+.fl-slideshow-imgs span.close:before {
+    content: "\f153";
+    font-family: dashicons;
+    display: block;
+}
+.fl-slideshow-imgs span:hover span.close { display: block; }
+.fl-slideshow-imgs span.close:hover { color: red;}
+
+.fl-slideshow-imgs img {
+	width: 100%;
+	height: 100%;
+	display: block;
+    cursor: move;
+}
+.fl-slideshow-imgs span.fl-state-highlight {
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	border: 1px dotted #bbbbbb;
+	background: #eeeeee;
+}
+.fl-slideshow-imgs span {
+	padding: 5px;
+	border: solid 1px #EFEFEF;
+}
+.fl-slideshow-imgs > span:hover {
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+	box-shadow: 1px 1px 5px #999;
+}
+
+/* Shortcode */
+#fl_slideshow_shortcode {
+    font-weight: 700;
+    vertical-align: middle;
+}
